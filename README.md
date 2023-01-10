@@ -1,2 +1,2 @@
-# DailyBook
+# HotelBooking
 SCM GR1
