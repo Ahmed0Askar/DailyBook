@@ -1,0 +1,50 @@
+﻿body {
+    background-image: url('../Images/booking.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.paragraph {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: larger;
+    height: auto;
+}
+
+.text {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.center {
+    margin-left: 450px;
+}
+
+.center2 {
+    margin-left: 500px;
+}
+
+.table {
+    text-align: center;
+    margin-left: 350px;
+    margin-right: auto;
+}
+
+.center3 {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.table2 {
+    text-align: center;
+    margin-left: 450px;
+}
+.nm {
+    margin-left: 600px;
+   
+}
